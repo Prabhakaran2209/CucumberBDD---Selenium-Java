@@ -1,0 +1,8 @@
+parallel\LoginSteps.class
+parallel\Applicationhooks.class
+parallel\AccountpageSteps.class
+parallel\failedrunner.class
+parallel\Parallelrunner.class
+testrunners\Mytestrunner.class
+testrunners\Failed_rerun.class
+testrunners\MyserenityTestrunner.class

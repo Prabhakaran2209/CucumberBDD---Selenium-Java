@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Account page feature","Accounts page title","SUCCESS","2021-01-24T13:16:13.297+05:30[Asia/Calcutta]","0.0","28.2"
+"Account page feature","My accounts section count","SUCCESS","2021-01-24T13:16:41.544+05:30[Asia/Calcutta]","0.0","17.45"
+"Login","Login page title validation","SUCCESS","2021-01-24T13:16:59.022+05:30[Asia/Calcutta]","0.0","12.96"
+"Login","Login with correct credentials","SUCCESS","2021-01-24T13:17:25.553+05:30[Asia/Calcutta]","0.0","15.9"

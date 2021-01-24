@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login","Login page title validation","SUCCESS","2021-01-24T13:16:59.022+05:30[Asia/Calcutta]","0.0","12.96"
+"Login","Forgot password link","ERROR","2021-01-24T13:17:12.006+05:30[Asia/Calcutta]","0.0","13.32"
+"Login","Login with correct credentials","SUCCESS","2021-01-24T13:17:25.553+05:30[Asia/Calcutta]","0.0","15.9"
